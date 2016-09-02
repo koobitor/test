@@ -1,3 +1,4 @@
 <?php
-echo "Hello world9999";
+echo "Hello world!999";
+echo "<pre>";print_r($_SERVER);echo "</pre>";
 ?>
